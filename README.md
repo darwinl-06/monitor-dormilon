@@ -1,3 +1,8 @@
+# Integrantes
+- Darwin Lenis Maturana
+- Dylan Bermudez
+- Juan Felipe Madrid
+
 # Problema del Monitor Dormilón
 
 Este proyecto es una solución al problema del **Monitor Dormilón**, donde un monitor universitario atiende a estudiantes que buscan ayuda con sus tareas de programación. El problema consiste en modelar esta interacción utilizando programación concurrente con **hilos** y **semáforos** para controlar el acceso a los recursos compartidos.
